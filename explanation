@@ -1,0 +1,7 @@
+data analysis from row data.py is used to extract the fish position and angle from row frames recorded in the experiment
+
+Plot and separate groups.py is used to make the distance distribution plot and scatter plot used to separate two groups of fish.
+
+Shuffle and sampling.py is used to do the shuffling and sampling
+
+Simulation.py is the code for simulated model.
